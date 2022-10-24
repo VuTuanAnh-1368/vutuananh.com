@@ -9,4 +9,5 @@ Unfinished version. Official version on my profile!!
 My website has quite a lot of information and pictures about technology devices. I love it! That's all!
 ![image](https://user-images.githubusercontent.com/92041804/197505358-34350367-94a1-4069-a8b5-e426d9abb2da.png)
 ![image](https://user-images.githubusercontent.com/92041804/197505440-eb3fd0f8-a9d8-4ece-b461-de426a598166.png)
-## You can to the section "Home"
+## You can to the section "Education"
+![image](https://user-images.githubusercontent.com/92041804/197506244-3bce6bd6-8f24-47dc-b468-206049c5f034.png)
