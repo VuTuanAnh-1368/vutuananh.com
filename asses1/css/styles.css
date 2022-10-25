@@ -92,7 +92,7 @@
   background: url('../img/slider11.jpg') ;
   background-size: cover;
   height: 1500px;
-  width: 1000px
+  width: 100%;
   display: flex;
    justify-content: center;
 }
