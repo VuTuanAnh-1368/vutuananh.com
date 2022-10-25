@@ -91,7 +91,7 @@
 .slider {
   background: url('../img/slider11.jpg') ;
   background-size: cover;
-  height: 700px;
+  height: 1500px;
   width: 1000px
   display: flex;
    justify-content: center;
